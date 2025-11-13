@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">  
-<a href="https://kioloao39498.github.io/.github/Compartments">  
+<a href="https://installation-osx.github.io/.github/Compartments">  
 <img src="https://img.shields.io/badge/🩺_Get_Compartments-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Launch Compartments Mac">  
 </a>  
 </div>  
